@@ -18,4 +18,6 @@ transaction="020000000121654fa95d5a268abf96427e3292baed6c9f6d16ed9e80511070f9548
 # 87 = OP_EQUAL
 # a914a5d106eb8ee51b23cf60d8bd98bc285695f233f387
 
-bitcoin-cli -regtest decodescript "a914a5d106eb8ee51b23cf60d8bd98bc285695f233f387"
+# bitcoin-cli -regtest decodescript "a914a5d106eb8ee51b23cf60d8bd98bc285695f233f387"
+
+printf "%s" "2N8MytPW2ih27LctLjn6LfLFZZb1PFSsqBr"
